@@ -1,2 +1,2 @@
 # Python-Iniciante-Projetos
-Este repositório é dedicado a projetos e exemplos destinados a iniciantes que estão aprendendo Python.
+Este repositório é dedicado a projetos e exemplos destinados a iniciantes que estão aprendendo Python. Aqui, você encontrará uma coleção diversificada de projetos Python de nível iniciante, desde scripts simples até aplicativos mais complexos. O objetivo deste repositório é fornecer recursos práticos e educacionais para ajudar aqueles que estão começando a explorar a programação em Python.
